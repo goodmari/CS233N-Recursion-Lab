@@ -14,7 +14,6 @@ namespace Mulitplication
             Console.WriteLine("Now for some real fun!");
             Console.WriteLine(String.Format("5 * {0,2} is {1,2}", 0, multiply(5, 0)));
 
-            Console.ReadLine();
         }
 
         // 3 * 1 = 3
